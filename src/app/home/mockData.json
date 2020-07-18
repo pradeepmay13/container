@@ -1,0 +1,5439 @@
+[
+    {
+        "pack_name": "LUCKY PREMIUM PACK",
+        "amount": 210,
+        "total": 221,
+        "icon": "bx bx-tv",
+        "order": 2,
+        "iconColor": "#47aeff",
+        "channels": [
+            {
+                "ProgramID": "7",
+                "ProgramName": "ZEE BUSINESS RS 0.10"
+            },
+            {
+                "ProgramID": "15",
+                "ProgramName": "SONY SAB RS 19"
+            },
+            {
+                "ProgramID": "17",
+                "ProgramName": "SONY MAX RS 15"
+            },
+            {
+                "ProgramID": "19",
+                "ProgramName": "SONY MAX 2 RS 1"
+            },
+            {
+                "ProgramID": "20",
+                "ProgramName": "DISCOVERY RS 4"
+            },
+            {
+                "ProgramID": "21",
+                "ProgramName": "ANIMAL PLANT RS 2"
+            },
+            {
+                "ProgramID": "25",
+                "ProgramName": "COLORS RS 19"
+            },
+            {
+                "ProgramID": "26",
+                "ProgramName": "NICK RS 6"
+            },
+            {
+                "ProgramID": "28",
+                "ProgramName": "CNBC AWAZ RS 1"
+            },
+            {
+                "ProgramID": "29",
+                "ProgramName": "M TV RS 3"
+            },
+            {
+                "ProgramID": "30",
+                "ProgramName": "HISTORY RS 4"
+            },
+            {
+                "ProgramID": "31",
+                "ProgramName": "DISCOVERY KIDS RS 3"
+            },
+            {
+                "ProgramID": "32",
+                "ProgramName": "SONIC RS 2"
+            },
+            {
+                "ProgramID": "33",
+                "ProgramName": "SONY WAH RS 1"
+            },
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "59",
+                "ProgramName": "ZEE ACTION"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "68",
+                "ProgramName": "SONY RS 19"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "88",
+                "ProgramName": "STAR UTSAV RS 1"
+            },
+            {
+                "ProgramID": "89",
+                "ProgramName": "DISCOVERY SC RS 1"
+            },
+            {
+                "ProgramID": "90",
+                "ProgramName": "COLORS CINEPLEX RS 3"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "94",
+                "ProgramName": "SONY MIX RS 1"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "103",
+                "ProgramName": "ZING RS 0.10"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "107",
+                "ProgramName": "BIG MAGIA RS 1"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "118",
+                "ProgramName": "ZEE HINDUSTAN RS 0.10"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "123",
+                "ProgramName": "MTV BEATS RS 1"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "157",
+                "ProgramName": "FYI TV"
+            },
+            {
+                "ProgramID": "158",
+                "ProgramName": "CNBC TV 18"
+            },
+            {
+                "ProgramID": "160",
+                "ProgramName": "NAWS 18 UR"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "174",
+                "ProgramName": "TLC"
+            },
+            {
+                "ProgramID": "176",
+                "ProgramName": "CNN NEWS 18"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9BHARATVARSH"
+            },
+            {
+                "ProgramID": "214",
+                "ProgramName": "ZEE CLASSIC"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "257",
+                "ProgramName": "MOVIE PLUS"
+            },
+            {
+                "ProgramID": "258",
+                "ProgramName": "MAHA PUNJABI"
+            },
+            {
+                "ProgramID": "259",
+                "ProgramName": "I LOVE"
+            }
+        ]
+    },
+    {
+        "pack_name": "Premium Value Pack",
+        "amount": 170,
+        "total": 214,
+        "icon": "bx bx-tv",
+        "order": 3,
+        "iconColor": "#47aeff",
+        "channels": [
+            {
+                "ProgramID": "7",
+                "ProgramName": "ZEE BUSINESS RS 0.10"
+            },
+            {
+                "ProgramID": "20",
+                "ProgramName": "DISCOVERY RS 4"
+            },
+            {
+                "ProgramID": "21",
+                "ProgramName": "ANIMAL PLANT RS 2"
+            },
+            {
+                "ProgramID": "25",
+                "ProgramName": "COLORS RS 19"
+            },
+            {
+                "ProgramID": "26",
+                "ProgramName": "NICK RS 6"
+            },
+            {
+                "ProgramID": "28",
+                "ProgramName": "CNBC AWAZ RS 1"
+            },
+            {
+                "ProgramID": "29",
+                "ProgramName": "M TV RS 3"
+            },
+            {
+                "ProgramID": "30",
+                "ProgramName": "HISTORY RS 4"
+            },
+            {
+                "ProgramID": "31",
+                "ProgramName": "DISCOVERY KIDS RS 3"
+            },
+            {
+                "ProgramID": "32",
+                "ProgramName": "SONIC RS 2"
+            },
+            {
+                "ProgramID": "33",
+                "ProgramName": "SONY WAH RS 1"
+            },
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "59",
+                "ProgramName": "ZEE ACTION"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "88",
+                "ProgramName": "STAR UTSAV RS 1"
+            },
+            {
+                "ProgramID": "89",
+                "ProgramName": "DISCOVERY SC RS 1"
+            },
+            {
+                "ProgramID": "90",
+                "ProgramName": "COLORS CINEPLEX RS 3"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "107",
+                "ProgramName": "BIG MAGIA RS 1"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "118",
+                "ProgramName": "ZEE HINDUSTAN RS 0.10"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "123",
+                "ProgramName": "MTV BEATS RS 1"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "157",
+                "ProgramName": "FYI TV"
+            },
+            {
+                "ProgramID": "158",
+                "ProgramName": "CNBC TV 18"
+            },
+            {
+                "ProgramID": "160",
+                "ProgramName": "NAWS 18 UR"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "174",
+                "ProgramName": "TLC"
+            },
+            {
+                "ProgramID": "176",
+                "ProgramName": "CNN NEWS 18"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9 BHARATVARSH"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "257",
+                "ProgramName": "MOVIE PLUS"
+            },
+            {
+                "ProgramID": "258",
+                "ProgramName": "MAHA PUNJABI"
+            },
+            {
+                "ProgramID": "259",
+                "ProgramName": "I LOVE"
+            }
+        ]
+    },
+    {
+        "pack_name": "All Channel",
+        "amount": 340,
+        "total": 258,
+        "icon": "bx bx-tv",
+        "order": 1,
+        "iconColor": "#47aeff",
+        "advanced": true,
+        "channels": [
+            {
+                "ProgramID": "1",
+                "ProgramName": "TEN 1 RS 19"
+            },
+            {
+                "ProgramID": "2",
+                "ProgramName": "TEN 2 RS 15"
+            },
+            {
+                "ProgramID": "3",
+                "ProgramName": "TEN 3 RS 17"
+            },
+            {
+                "ProgramID": "4",
+                "ProgramName": "& TV RS 12"
+            },
+            {
+                "ProgramID": "5",
+                "ProgramName": "ZEE TV RS 19"
+            },
+            {
+                "ProgramID": "6",
+                "ProgramName": "ZEE CINEMA RS 15"
+            },
+            {
+                "ProgramID": "7",
+                "ProgramName": "ZEE BUSINESS RS 0.10"
+            },
+            {
+                "ProgramID": "8",
+                "ProgramName": "STAR PLUS RS 19"
+            },
+            {
+                "ProgramID": "10",
+                "ProgramName": "STAR GOLD RS 8"
+            },
+            {
+                "ProgramID": "11",
+                "ProgramName": "STAR SPORTS RS 6"
+            },
+            {
+                "ProgramID": "12",
+                "ProgramName": "STAR SPORTS 1HINDI RS19 "
+            },
+            {
+                "ProgramID": "13",
+                "ProgramName": "STAR GOLD 2 RS 1"
+            },
+            {
+                "ProgramID": "14",
+                "ProgramName": "SATR UTSAV MOVES RS 1"
+            },
+            {
+                "ProgramID": "15",
+                "ProgramName": "SONY SAB RS 19"
+            },
+            {
+                "ProgramID": "16",
+                "ProgramName": "BIG MAGIA GANGA RS 1"
+            },
+            {
+                "ProgramID": "17",
+                "ProgramName": "SONY MAX RS 15"
+            },
+            {
+                "ProgramID": "18",
+                "ProgramName": "SONY SIX RS 15"
+            },
+            {
+                "ProgramID": "19",
+                "ProgramName": "SONY MAX 2 RS 1"
+            },
+            {
+                "ProgramID": "20",
+                "ProgramName": "DISCOVERY RS 4"
+            },
+            {
+                "ProgramID": "21",
+                "ProgramName": "ANIMAL PLANT RS 2"
+            },
+            {
+                "ProgramID": "22",
+                "ProgramName": "UTV MOVIE RS 2"
+            },
+            {
+                "ProgramID": "23",
+                "ProgramName": "UTV ACTION RS 2"
+            },
+            {
+                "ProgramID": "24",
+                "ProgramName": "NGC RS 2"
+            },
+            {
+                "ProgramID": "25",
+                "ProgramName": "COLORS RS 19"
+            },
+            {
+                "ProgramID": "26",
+                "ProgramName": "NICK RS 6"
+            },
+            {
+                "ProgramID": "27",
+                "ProgramName": "DISNEY CHANNEL RS 8"
+            },
+            {
+                "ProgramID": "28",
+                "ProgramName": "CNBC AWAZ RS 1"
+            },
+            {
+                "ProgramID": "29",
+                "ProgramName": "M TV RS 3"
+            },
+            {
+                "ProgramID": "30",
+                "ProgramName": "HISTORY RS 4"
+            },
+            {
+                "ProgramID": "31",
+                "ProgramName": "DISCOVERY KIDS RS 3"
+            },
+            {
+                "ProgramID": "32",
+                "ProgramName": "SONIC RS 2"
+            },
+            {
+                "ProgramID": "33",
+                "ProgramName": "SONY WAH RS 1"
+            },
+            {
+                "ProgramID": "34",
+                "ProgramName": "HUNGAMA RS 6"
+            },
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "59",
+                "ProgramName": "ZEE ACTION"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "68",
+                "ProgramName": "SONY RS 19"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "87",
+                "ProgramName": "BINDASS RS 1"
+            },
+            {
+                "ProgramID": "88",
+                "ProgramName": "STAR UTSAV RS 1"
+            },
+            {
+                "ProgramID": "89",
+                "ProgramName": "DISCOVERY SC RS 1"
+            },
+            {
+                "ProgramID": "90",
+                "ProgramName": "COLORS CINEPLEX RS 3"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "94",
+                "ProgramName": "SONY MIX RS 1"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "103",
+                "ProgramName": "ZING RS 0.10"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "107",
+                "ProgramName": "BIG MAGIA RS 1"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "118",
+                "ProgramName": "ZEE HINDUSTAN RS 0.10"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "123",
+                "ProgramName": "MTV BEATS RS 1"
+            },
+            {
+                "ProgramID": "124",
+                "ProgramName": "STAR SPO FIRST RS 1"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "157",
+                "ProgramName": "FYI TV"
+            },
+            {
+                "ProgramID": "158",
+                "ProgramName": "CNBC TV 18"
+            },
+            {
+                "ProgramID": "159",
+                "ProgramName": "STAR SPORTS 3"
+            },
+            {
+                "ProgramID": "160",
+                "ProgramName": "NAWS 18 UR"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "164",
+                "ProgramName": "NGC WED"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "174",
+                "ProgramName": "TLC"
+            },
+            {
+                "ProgramID": "175",
+                "ProgramName": "STAR BHARAT"
+            },
+            {
+                "ProgramID": "176",
+                "ProgramName": "CNN NEWS 18"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "194",
+                "ProgramName": "ZEE BIHAR JHARKHAND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9BHARATVARSH"
+            },
+            {
+                "ProgramID": "214",
+                "ProgramName": "ZEE CLASSIC"
+            },
+            {
+                "ProgramID": "215",
+                "ProgramName": "MARVEL HQ"
+            },
+            {
+                "ProgramID": "216",
+                "ProgramName": "DISNEY JUNIOR"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "237",
+                "ProgramName": "ZEE PUNJABI HARYANA"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "248",
+                "ProgramName": "ZEE ETC"
+            },
+            {
+                "ProgramID": "249",
+                "ProgramName": "ZEE 24 KALAK"
+            },
+            {
+                "ProgramID": "250",
+                "ProgramName": "ZEE UP / UK"
+            },
+            {
+                "ProgramID": "251",
+                "ProgramName": "ZEE ANMOL CINEMA"
+            },
+            {
+                "ProgramID": "252",
+                "ProgramName": "ZEE BOLLY WOOD"
+            },
+            {
+                "ProgramID": "253",
+                "ProgramName": "LIVING FOODZ"
+            },
+            {
+                "ProgramID": "254",
+                "ProgramName": "& PICTURES"
+            },
+            {
+                "ProgramID": "255",
+                "ProgramName": "ZEE MP CHHATTISGAGH"
+            },
+            {
+                "ProgramID": "256",
+                "ProgramName": "ZEE SALAM"
+            },
+            {
+                "ProgramID": "257",
+                "ProgramName": "MOVIE PLUS"
+            },
+            {
+                "ProgramID": "258",
+                "ProgramName": "MAHA PUNJABI"
+            },
+            {
+                "ProgramID": "259",
+                "ProgramName": "I LOVE"
+            }
+        ]
+    },
+    {
+        "pack_name": "Basic Silver Package",
+        "amount": 150,
+        "total": 209,
+        "icon": "bx bx-tv",
+        "order": 6,
+        "iconColor": "#47aeff",
+        "channels": [
+            {
+                "ProgramID": "7",
+                "ProgramName": "ZEE BUSINESS RS 0.10"
+            },
+            {
+                "ProgramID": "16",
+                "ProgramName": "BIG MAGIA GANGA RS 1"
+            },
+            {
+                "ProgramID": "19",
+                "ProgramName": "SONY MAX 2 RS 1"
+            },
+            {
+                "ProgramID": "20",
+                "ProgramName": "DISCOVERY RS 4"
+            },
+            {
+                "ProgramID": "21",
+                "ProgramName": "ANIMAL PLANT RS 2"
+            },
+            {
+                "ProgramID": "28",
+                "ProgramName": "CNBC AWAZ RS 1"
+            },
+            {
+                "ProgramID": "31",
+                "ProgramName": "DISCOVERY KIDS RS 3"
+            },
+            {
+                "ProgramID": "33",
+                "ProgramName": "SONY WAH RS 1"
+            },
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "87",
+                "ProgramName": "BINDASS RS 1"
+            },
+            {
+                "ProgramID": "88",
+                "ProgramName": "STAR UTSAV RS 1"
+            },
+            {
+                "ProgramID": "89",
+                "ProgramName": "DISCOVERY SC RS 1"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "94",
+                "ProgramName": "SONY MIX RS 1"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "107",
+                "ProgramName": "BIG MAGIA RS 1"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "123",
+                "ProgramName": "MTV BEATS RS 1"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "158",
+                "ProgramName": "CNBC TV 18"
+            },
+            {
+                "ProgramID": "160",
+                "ProgramName": "NAWS 18 UR"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "174",
+                "ProgramName": "TLC"
+            },
+            {
+                "ProgramID": "176",
+                "ProgramName": "CNN NEWS 18"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9BHARATVARSH"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "257",
+                "ProgramName": "MOVIE PLUS"
+            },
+            {
+                "ProgramID": "258",
+                "ProgramName": "MAHA PUNJABI"
+            },
+            {
+                "ProgramID": "259",
+                "ProgramName": "I LOVE"
+            }
+        ]
+    },
+    {
+        "pack_name": "NCF Basic Pack",
+        "amount": 130,
+        "total": 191,
+        "icon": "bx bx-tv",
+        "order": 5,
+        "iconColor": "#47aeff",
+        "channels": [
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9BHARATVARSH"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "257",
+                "ProgramName": "MOVIE PLUS"
+            },
+            {
+                "ProgramID": "258",
+                "ProgramName": "MAHA PUNJABI"
+            },
+            {
+                "ProgramID": "259",
+                "ProgramName": "I LOVE"
+            }
+        ]
+    },
+    {
+        "pack_name": "Lucky Gold Pack",
+        "amount": 300,
+        "total": 251,
+        "icon": "bx bx-tv",
+        "order": 4,
+        "iconColor": "#47aeff",
+        "channels": [
+            {
+                "ProgramID": "4",
+                "ProgramName": "& TV RS 12"
+            },
+            {
+                "ProgramID": "5",
+                "ProgramName": "ZEE TV RS 19"
+            },
+            {
+                "ProgramID": "6",
+                "ProgramName": "ZEE CINEMA RS 15"
+            },
+            {
+                "ProgramID": "7",
+                "ProgramName": "ZEE BUSINESS RS 0.10"
+            },
+            {
+                "ProgramID": "8",
+                "ProgramName": "STAR PLUS RS 19"
+            },
+            {
+                "ProgramID": "10",
+                "ProgramName": "STAR GOLD RS 8"
+            },
+            {
+                "ProgramID": "11",
+                "ProgramName": "STAR SPORTS RS 6"
+            },
+            {
+                "ProgramID": "12",
+                "ProgramName": "STAR SPORTS 1HINDI RS19 "
+            },
+            {
+                "ProgramID": "13",
+                "ProgramName": "STAR GOLD 2 RS 1"
+            },
+            {
+                "ProgramID": "14",
+                "ProgramName": "SATR UTSAV MOVES RS 1"
+            },
+            {
+                "ProgramID": "15",
+                "ProgramName": "SONY SAB RS 19"
+            },
+            {
+                "ProgramID": "16",
+                "ProgramName": "BIG MAGIA GANGA RS 1"
+            },
+            {
+                "ProgramID": "17",
+                "ProgramName": "SONY MAX RS 15"
+            },
+            {
+                "ProgramID": "19",
+                "ProgramName": "SONY MAX 2 RS 1"
+            },
+            {
+                "ProgramID": "20",
+                "ProgramName": "DISCOVERY RS 4"
+            },
+            {
+                "ProgramID": "21",
+                "ProgramName": "ANIMAL PLANT RS 2"
+            },
+            {
+                "ProgramID": "22",
+                "ProgramName": "UTV MOVIE RS 2"
+            },
+            {
+                "ProgramID": "23",
+                "ProgramName": "UTV ACTION RS 2"
+            },
+            {
+                "ProgramID": "24",
+                "ProgramName": "NGC RS 2"
+            },
+            {
+                "ProgramID": "25",
+                "ProgramName": "COLORS RS 19"
+            },
+            {
+                "ProgramID": "26",
+                "ProgramName": "NICK RS 6"
+            },
+            {
+                "ProgramID": "27",
+                "ProgramName": "DISNEY CHANNEL RS 8"
+            },
+            {
+                "ProgramID": "28",
+                "ProgramName": "CNBC AWAZ RS 1"
+            },
+            {
+                "ProgramID": "29",
+                "ProgramName": "M TV RS 3"
+            },
+            {
+                "ProgramID": "30",
+                "ProgramName": "HISTORY RS 4"
+            },
+            {
+                "ProgramID": "31",
+                "ProgramName": "DISCOVERY KIDS RS 3"
+            },
+            {
+                "ProgramID": "32",
+                "ProgramName": "SONIC RS 2"
+            },
+            {
+                "ProgramID": "33",
+                "ProgramName": "SONY WAH RS 1"
+            },
+            {
+                "ProgramID": "34",
+                "ProgramName": "HUNGAMA RS 6"
+            },
+            {
+                "ProgramID": "35",
+                "ProgramName": "DD PRIYA"
+            },
+            {
+                "ProgramID": "36",
+                "ProgramName": "DD PODHIGAI "
+            },
+            {
+                "ProgramID": "37",
+                "ProgramName": "DD PUNJABI"
+            },
+            {
+                "ProgramID": "38",
+                "ProgramName": "DD SAHYADRI"
+            },
+            {
+                "ProgramID": "39",
+                "ProgramName": "DD YADAGIRI"
+            },
+            {
+                "ProgramID": "40",
+                "ProgramName": "LOK SABHA"
+            },
+            {
+                "ProgramID": "41",
+                "ProgramName": "RAJYA SABHA"
+            },
+            {
+                "ProgramID": "42",
+                "ProgramName": "BHOJPURI CINEMA"
+            },
+            {
+                "ProgramID": "43",
+                "ProgramName": "DD NORTH EAST"
+            },
+            {
+                "ProgramID": "44",
+                "ProgramName": "NEWS 18 INDIA"
+            },
+            {
+                "ProgramID": "45",
+                "ProgramName": "DD BIHAR"
+            },
+            {
+                "ProgramID": "46",
+                "ProgramName": "DD RAJASTHAN "
+            },
+            {
+                "ProgramID": "47",
+                "ProgramName": "MAHAVIRA TV CHANNEL"
+            },
+            {
+                "ProgramID": "48",
+                "ProgramName": "SARV DHARM SANGAM"
+            },
+            {
+                "ProgramID": "49",
+                "ProgramName": "ADHYATM"
+            },
+            {
+                "ProgramID": "50",
+                "ProgramName": "JINVANI "
+            },
+            {
+                "ProgramID": "51",
+                "ProgramName": "CHANNEL WIN"
+            },
+            {
+                "ProgramID": "52",
+                "ProgramName": "MULTIPLEX"
+            },
+            {
+                "ProgramID": "53",
+                "ProgramName": "BHAKTISAGAR"
+            },
+            {
+                "ProgramID": "54",
+                "ProgramName": "IBC 24"
+            },
+            {
+                "ProgramID": "55",
+                "ProgramName": "JAI PARAS TV"
+            },
+            {
+                "ProgramID": "56",
+                "ProgramName": "SARATHI TV"
+            },
+            {
+                "ProgramID": "57",
+                "ProgramName": "CARE WORLD"
+            },
+            {
+                "ProgramID": "58",
+                "ProgramName": "BOX CINEMA"
+            },
+            {
+                "ProgramID": "59",
+                "ProgramName": "ZEE ACTION"
+            },
+            {
+                "ProgramID": "60",
+                "ProgramName": "ZEE RAJSTHAN"
+            },
+            {
+                "ProgramID": "61",
+                "ProgramName": "AASTHA BHAJAN"
+            },
+            {
+                "ProgramID": "62",
+                "ProgramName": "VEDIC TV"
+            },
+            {
+                "ProgramID": "63",
+                "ProgramName": "SADHNA NATIONAL"
+            },
+            {
+                "ProgramID": "64",
+                "ProgramName": "ARIHANT"
+            },
+            {
+                "ProgramID": "65",
+                "ProgramName": "SUBH TV "
+            },
+            {
+                "ProgramID": "66",
+                "ProgramName": "OSCAR BHOJPURI"
+            },
+            {
+                "ProgramID": "67",
+                "ProgramName": "TEHZEEB TV"
+            },
+            {
+                "ProgramID": "68",
+                "ProgramName": "SONY RS 19"
+            },
+            {
+                "ProgramID": "69",
+                "ProgramName": "SHRI  NAVGRAH"
+            },
+            {
+                "ProgramID": "70",
+                "ProgramName": "BHASKAR NEWS"
+            },
+            {
+                "ProgramID": "71",
+                "ProgramName": "NEWS 1 INDIA"
+            },
+            {
+                "ProgramID": "72",
+                "ProgramName": "FOOD FOOD TV"
+            },
+            {
+                "ProgramID": "73",
+                "ProgramName": "1ST NEWS"
+            },
+            {
+                "ProgramID": "74",
+                "ProgramName": "DD SPORT"
+            },
+            {
+                "ProgramID": "75",
+                "ProgramName": "K NEWS INDIA"
+            },
+            {
+                "ProgramID": "76",
+                "ProgramName": "AAHO MUSIC"
+            },
+            {
+                "ProgramID": "77",
+                "ProgramName": "CHANNEL 1"
+            },
+            {
+                "ProgramID": "78",
+                "ProgramName": "TOTAL TV"
+            },
+            {
+                "ProgramID": "79",
+                "ProgramName": "TV 100"
+            },
+            {
+                "ProgramID": "80",
+                "ProgramName": "ARYAN TV NATIONAL"
+            },
+            {
+                "ProgramID": "81",
+                "ProgramName": "INDIAN FASHION TV "
+            },
+            {
+                "ProgramID": "82",
+                "ProgramName": "BALLE BALLE  NON STOP MUSIC"
+            },
+            {
+                "ProgramID": "83",
+                "ProgramName": "SANGEET BHOJURI"
+            },
+            {
+                "ProgramID": "84",
+                "ProgramName": "NEWS WORLD INDIA"
+            },
+            {
+                "ProgramID": "85",
+                "ProgramName": "PRATINIDHI"
+            },
+            {
+                "ProgramID": "86",
+                "ProgramName": "WIN TV UP"
+            },
+            {
+                "ProgramID": "87",
+                "ProgramName": "BINDASS RS 1"
+            },
+            {
+                "ProgramID": "88",
+                "ProgramName": "STAR UTSAV RS 1"
+            },
+            {
+                "ProgramID": "89",
+                "ProgramName": "DISCOVERY SC RS 1"
+            },
+            {
+                "ProgramID": "90",
+                "ProgramName": "COLORS CINEPLEX RS 3"
+            },
+            {
+                "ProgramID": "91",
+                "ProgramName": "REPUBLIC TV BHARAT"
+            },
+            {
+                "ProgramID": "92",
+                "ProgramName": "INDIN  TV "
+            },
+            {
+                "ProgramID": "93",
+                "ProgramName": "NEWS NATION"
+            },
+            {
+                "ProgramID": "94",
+                "ProgramName": "SONY MIX RS 1"
+            },
+            {
+                "ProgramID": "95",
+                "ProgramName": "NDTV RS 1"
+            },
+            {
+                "ProgramID": "96",
+                "ProgramName": "AIR HINDI"
+            },
+            {
+                "ProgramID": "97",
+                "ProgramName": "4TV NEWS"
+            },
+            {
+                "ProgramID": "98",
+                "ProgramName": "DD URDU"
+            },
+            {
+                "ProgramID": "99",
+                "ProgramName": "DD MP"
+            },
+            {
+                "ProgramID": "100",
+                "ProgramName": "NEWS 18 UP"
+            },
+            {
+                "ProgramID": "101",
+                "ProgramName": "NEWS STATE UP"
+            },
+            {
+                "ProgramID": "102",
+                "ProgramName": "T TV"
+            },
+            {
+                "ProgramID": "103",
+                "ProgramName": "ZING RS 0.10"
+            },
+            {
+                "ProgramID": "104",
+                "ProgramName": "GRACE TV"
+            },
+            {
+                "ProgramID": "105",
+                "ProgramName": "TV 24"
+            },
+            {
+                "ProgramID": "106",
+                "ProgramName": "INDIA VOICE"
+            },
+            {
+                "ProgramID": "107",
+                "ProgramName": "BIG MAGIA RS 1"
+            },
+            {
+                "ProgramID": "108",
+                "ProgramName": "9XM"
+            },
+            {
+                "ProgramID": "109",
+                "ProgramName": "MASTIII"
+            },
+            {
+                "ProgramID": "110",
+                "ProgramName": "B4U MUSIC"
+            },
+            {
+                "ProgramID": "111",
+                "ProgramName": "AAJ TAK RS 1"
+            },
+            {
+                "ProgramID": "112",
+                "ProgramName": "ABP NEWS"
+            },
+            {
+                "ProgramID": "113",
+                "ProgramName": "ZEE NEWS"
+            },
+            {
+                "ProgramID": "114",
+                "ProgramName": "DILLAGIII"
+            },
+            {
+                "ProgramID": "115",
+                "ProgramName": "NETWORK 10"
+            },
+            {
+                "ProgramID": "116",
+                "ProgramName": "HOUSEFULL MOVIES"
+            },
+            {
+                "ProgramID": "117",
+                "ProgramName": "MAHA MOVIE"
+            },
+            {
+                "ProgramID": "118",
+                "ProgramName": "ZEE HINDUSTAN RS 0.10"
+            },
+            {
+                "ProgramID": "119",
+                "ProgramName": "DD BHARATI"
+            },
+            {
+                "ProgramID": "120",
+                "ProgramName": "SANSKAR"
+            },
+            {
+                "ProgramID": "121",
+                "ProgramName": "SATSANG"
+            },
+            {
+                "ProgramID": "122",
+                "ProgramName": "MANORANJAN MOVIES"
+            },
+            {
+                "ProgramID": "123",
+                "ProgramName": "MTV BEATS RS 1"
+            },
+            {
+                "ProgramID": "124",
+                "ProgramName": "STAR SPO FIRST RS 1"
+            },
+            {
+                "ProgramID": "125",
+                "ProgramName": "JAN-TANTRA TV"
+            },
+            {
+                "ProgramID": "126",
+                "ProgramName": "A1 TV "
+            },
+            {
+                "ProgramID": "127",
+                "ProgramName": "FIRST INDIA TV"
+            },
+            {
+                "ProgramID": "128",
+                "ProgramName": "WOW CINEMA ONE"
+            },
+            {
+                "ProgramID": "129",
+                "ProgramName": "VAA MOVIES"
+            },
+            {
+                "ProgramID": "130",
+                "ProgramName": "DD INDIA"
+            },
+            {
+                "ProgramID": "131",
+                "ProgramName": "APN"
+            },
+            {
+                "ProgramID": "132",
+                "ProgramName": "SWARAJ EXPRESS SMBC"
+            },
+            {
+                "ProgramID": "133",
+                "ProgramName": "DD BANGIA"
+            },
+            {
+                "ProgramID": "134",
+                "ProgramName": "DD CHANDANA"
+            },
+            {
+                "ProgramID": "135",
+                "ProgramName": "DD GIRNAR"
+            },
+            {
+                "ProgramID": "136",
+                "ProgramName": "DD KASHIR"
+            },
+            {
+                "ProgramID": "137",
+                "ProgramName": "AASTHA "
+            },
+            {
+                "ProgramID": "138",
+                "ProgramName": "NEWS  24"
+            },
+            {
+                "ProgramID": "139",
+                "ProgramName": "E24"
+            },
+            {
+                "ProgramID": "140",
+                "ProgramName": "BFIX MOVIES"
+            },
+            {
+                "ProgramID": "141",
+                "ProgramName": "DHUSUM"
+            },
+            {
+                "ProgramID": "142",
+                "ProgramName": "DARSHAMN TV"
+            },
+            {
+                "ProgramID": "143",
+                "ProgramName": "SOHAM"
+            },
+            {
+                "ProgramID": "144",
+                "ProgramName": "I PLUS TV"
+            },
+            {
+                "ProgramID": "145",
+                "ProgramName": "INDA CRIME"
+            },
+            {
+                "ProgramID": "146",
+                "ProgramName": "PITAARA"
+            },
+            {
+                "ProgramID": "147",
+                "ProgramName": "KHABREIN ABHI TAK"
+            },
+            {
+                "ProgramID": "148",
+                "ProgramName": "GEMPORIA"
+            },
+            {
+                "ProgramID": "149",
+                "ProgramName": "INDIA AHEAD"
+            },
+            {
+                "ProgramID": "150",
+                "ProgramName": "AHSAS TV"
+            },
+            {
+                "ProgramID": "151",
+                "ProgramName": "DD NEWS"
+            },
+            {
+                "ProgramID": "152",
+                "ProgramName": "DD KISAN"
+            },
+            {
+                "ProgramID": "153",
+                "ProgramName": "M`TUNES+"
+            },
+            {
+                "ProgramID": "154",
+                "ProgramName": "WOW "
+            },
+            {
+                "ProgramID": "155",
+                "ProgramName": "MUSIC INDIA"
+            },
+            {
+                "ProgramID": "156",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "157",
+                "ProgramName": "FYI TV"
+            },
+            {
+                "ProgramID": "158",
+                "ProgramName": "CNBC TV 18"
+            },
+            {
+                "ProgramID": "159",
+                "ProgramName": "STAR SPORTS 3"
+            },
+            {
+                "ProgramID": "160",
+                "ProgramName": "NAWS 18 UR"
+            },
+            {
+                "ProgramID": "161",
+                "ProgramName": "RISHTEY COLOR"
+            },
+            {
+                "ProgramID": "162",
+                "ProgramName": "SONY PAL"
+            },
+            {
+                "ProgramID": "163",
+                "ProgramName": "DD NATIONAL"
+            },
+            {
+                "ProgramID": "164",
+                "ProgramName": "NGC WED"
+            },
+            {
+                "ProgramID": "165",
+                "ProgramName": "NON STOP SAMACHAR INDIA"
+            },
+            {
+                "ProgramID": "166",
+                "ProgramName": "PRIME NEWS"
+            },
+            {
+                "ProgramID": "167",
+                "ProgramName": "DISHA NEWS CHANNEL"
+            },
+            {
+                "ProgramID": "168",
+                "ProgramName": "MANORANJAN TV"
+            },
+            {
+                "ProgramID": "169",
+                "ProgramName": "ENTERR 10"
+            },
+            {
+                "ProgramID": "170",
+                "ProgramName": "DANGAL"
+            },
+            {
+                "ProgramID": "171",
+                "ProgramName": "DIVYA"
+            },
+            {
+                "ProgramID": "172",
+                "ProgramName": "SUDARSHAN TV"
+            },
+            {
+                "ProgramID": "173",
+                "ProgramName": "DABANGG"
+            },
+            {
+                "ProgramID": "174",
+                "ProgramName": "TLC"
+            },
+            {
+                "ProgramID": "175",
+                "ProgramName": "STAR BHARAT"
+            },
+            {
+                "ProgramID": "176",
+                "ProgramName": "CNN NEWS 18"
+            },
+            {
+                "ProgramID": "177",
+                "ProgramName": "ZEE ANMOL"
+            },
+            {
+                "ProgramID": "178",
+                "ProgramName": "REPUBLIC TV"
+            },
+            {
+                "ProgramID": "179",
+                "ProgramName": "B4U MOVIES"
+            },
+            {
+                "ProgramID": "180",
+                "ProgramName": "INDIA NEWS"
+            },
+            {
+                "ProgramID": "181",
+                "ProgramName": "SUBHARATI"
+            },
+            {
+                "ProgramID": "182",
+                "ProgramName": "ANB NEWS"
+            },
+            {
+                "ProgramID": "183",
+                "ProgramName": "BHART SAMACHAR"
+            },
+            {
+                "ProgramID": "184",
+                "ProgramName": "B4U KADAK"
+            },
+            {
+                "ProgramID": "185",
+                "ProgramName": "MAI BOLI"
+            },
+            {
+                "ProgramID": "186",
+                "ProgramName": "HOUSEFULL ACTION"
+            },
+            {
+                "ProgramID": "187",
+                "ProgramName": "9X JALWA"
+            },
+            {
+                "ProgramID": "188",
+                "ProgramName": "IND 24"
+            },
+            {
+                "ProgramID": "189",
+                "ProgramName": "DHAMAAL"
+            },
+            {
+                "ProgramID": "190",
+                "ProgramName": "BANSAL NEWS"
+            },
+            {
+                "ProgramID": "191",
+                "ProgramName": "NAXATRA"
+            },
+            {
+                "ProgramID": "192",
+                "ProgramName": "LORD BUDDHA"
+            },
+            {
+                "ProgramID": "193",
+                "ProgramName": "PEACE OF MIND"
+            },
+            {
+                "ProgramID": "194",
+                "ProgramName": "ZEE BIHAR JHARKHAND"
+            },
+            {
+                "ProgramID": "195",
+                "ProgramName": "SKY STAR MOVIES"
+            },
+            {
+                "ProgramID": "196",
+                "ProgramName": "AAJ TAK TEZ"
+            },
+            {
+                "ProgramID": "197",
+                "ProgramName": "NEWS 18 RAJASTHAN"
+            },
+            {
+                "ProgramID": "198",
+                "ProgramName": "SAHARA NAT "
+            },
+            {
+                "ProgramID": "199",
+                "ProgramName": "SAHARA NCR"
+            },
+            {
+                "ProgramID": "200",
+                "ProgramName": "SAHARA MUM"
+            },
+            {
+                "ProgramID": "201",
+                "ProgramName": "SAHARA UP "
+            },
+            {
+                "ProgramID": "202",
+                "ProgramName": "SAHARA BIH"
+            },
+            {
+                "ProgramID": "203",
+                "ProgramName": "Aalami SAHARA"
+            },
+            {
+                "ProgramID": "204",
+                "ProgramName": "SAHARA MP"
+            },
+            {
+                "ProgramID": "205",
+                "ProgramName": "SAHARA ONE "
+            },
+            {
+                "ProgramID": "206",
+                "ProgramName": "SAHARA FILMI"
+            },
+            {
+                "ProgramID": "207",
+                "ProgramName": "FIRANGI"
+            },
+            {
+                "ProgramID": "208",
+                "ProgramName": "DNN"
+            },
+            {
+                "ProgramID": "209",
+                "ProgramName": "PARAS GOLD"
+            },
+            {
+                "ProgramID": "210",
+                "ProgramName": "KAATYAYANI"
+            },
+            {
+                "ProgramID": "211",
+                "ProgramName": "9X JHAKAAS"
+            },
+            {
+                "ProgramID": "212",
+                "ProgramName": "SHOW BOX"
+            },
+            {
+                "ProgramID": "213",
+                "ProgramName": "TV9BHARATVARSH"
+            },
+            {
+                "ProgramID": "214",
+                "ProgramName": "ZEE CLASSIC"
+            },
+            {
+                "ProgramID": "215",
+                "ProgramName": "MARVEL HQ"
+            },
+            {
+                "ProgramID": "216",
+                "ProgramName": "DISNEY JUNIOR"
+            },
+            {
+                "ProgramID": "217",
+                "ProgramName": "SHEMAROO TV"
+            },
+            {
+                "ProgramID": "218",
+                "ProgramName": "FILAMACHI"
+            },
+            {
+                "ProgramID": "219",
+                "ProgramName": "SURYA BHOJPURI"
+            },
+            {
+                "ProgramID": "220",
+                "ProgramName": "RISHTEY CINEPLX"
+            },
+            {
+                "ProgramID": "221",
+                "ProgramName": "BLUE"
+            },
+            {
+                "ProgramID": "222",
+                "ProgramName": "ABZY MOVIES"
+            },
+            {
+                "ProgramID": "223",
+                "ProgramName": "SHEMAROO MARADHIVANI"
+            },
+            {
+                "ProgramID": "224",
+                "ProgramName": "SURYA CINEMA"
+            },
+            {
+                "ProgramID": "225",
+                "ProgramName": "CINEMA TV IN"
+            },
+            {
+                "ProgramID": "226",
+                "ProgramName": "ZEE BISKOPE"
+            },
+            {
+                "ProgramID": "227",
+                "ProgramName": "ABZY DHAKAD"
+            },
+            {
+                "ProgramID": "228",
+                "ProgramName": "ABZY COOL"
+            },
+            {
+                "ProgramID": "229",
+                "ProgramName": "MANORANJAN GARND"
+            },
+            {
+                "ProgramID": "230",
+                "ProgramName": "DD RETRO"
+            },
+            {
+                "ProgramID": "231",
+                "ProgramName": "R9 TV"
+            },
+            {
+                "ProgramID": "232",
+                "ProgramName": "NEWS STATE MP CHG"
+            },
+            {
+                "ProgramID": "233",
+                "ProgramName": "SADNA BHAKTI"
+            },
+            {
+                "ProgramID": "234",
+                "ProgramName": "SHUBH CINEMA"
+            },
+            {
+                "ProgramID": "235",
+                "ProgramName": "TRUE SPORTS"
+            },
+            {
+                "ProgramID": "236",
+                "ProgramName": "INSYNC"
+            },
+            {
+                "ProgramID": "237",
+                "ProgramName": "ZEE PUNJABI HARYANA"
+            },
+            {
+                "ProgramID": "238",
+                "ProgramName": "PTC SIMRAN"
+            },
+            {
+                "ProgramID": "239",
+                "ProgramName": "PTC MUSIC"
+            },
+            {
+                "ProgramID": "240",
+                "ProgramName": "DD PANJABI"
+            },
+            {
+                "ProgramID": "241",
+                "ProgramName": "LOVE WORLD"
+            },
+            {
+                "ProgramID": "242",
+                "ProgramName": "SADHNA PRIME NEWS"
+            },
+            {
+                "ProgramID": "243",
+                "ProgramName": "PTC PANJABI GOLD"
+            },
+            {
+                "ProgramID": "244",
+                "ProgramName": "PTC NEWS"
+            },
+            {
+                "ProgramID": "245",
+                "ProgramName": "PTC PANJABI"
+            },
+            {
+                "ProgramID": "246",
+                "ProgramName": "PTC CHAKDE"
+            },
+            {
+                "ProgramID": "247",
+                "ProgramName": "JAY MAHARAST"
+            },
+            {
+                "ProgramID": "248",
+                "ProgramName": "ZEE ETC"
+            },
+            {
+                "ProgramID": "249",
+                "ProgramName": "ZEE 24 KALAK"
+            },
+            {
+                "ProgramID": "250",
+                "ProgramName": "ZEE UP / UK"
+            },
+            {
+                "ProgramID": "251",
+                "ProgramName": "ZEE ANMOL CINEMA"
+            },
+            {
+                "ProgramID": "252",
+                "ProgramName": "ZEE BOLLY WOOD"
+            },
+            {
+                "ProgramID": "253",
+                "ProgramName": "LIVING FOODZ"
+            },
+            {
+                "ProgramID": "254",
+                "ProgramName": "& PICTURES"
+            },
+            {
+                "ProgramID": "255",
+                "ProgramName": "ZEE MP CHHATTISGAGH"
+            },
+            {
+                "ProgramID": "256",
+                "ProgramName": "ZEE SALAM"
+            }
+        ]
+    }
+]
