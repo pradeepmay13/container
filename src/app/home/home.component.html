@@ -26,8 +26,11 @@
       <div class="container-fluid">
   
         <div class="row">
-          <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch" data-aos="fade-right">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          <!--<div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch" data-aos="fade-right">
+            <a href="#" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          </div>-->
+		  <div class="col-md-5 justify-content-center align-items-stretch" data-aos="fade-right" style="max-height:450px;">
+            <img src="assets/img/details-1.png" class="img-fluid" alt="">
           </div>
   
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5" data-aos="fade-left">
@@ -35,21 +38,21 @@
             <p>is a Multi Service Operator, bringing in the best of shows, news, movies and sports at the doorsteps of the viewers. Our diverse television service delivers regional, national and international channels via Optical Fiber Cable networks.</p>
   
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div class="icon"><i class="bx bx-gift"></i></div>
+              <h4 class="title"><a href="javascript:none;">300+ TV Channels (HD/SD)</a></h4>
+              <p class="description">Now you can enjoy more than 300 digital TV channels with Lucky Cable Network.</p>
             </div>
   
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <div class="icon"><i class="bx bx-atom"></i></div>
+              <h4 class="title"><a href="javascript:none;">Subscribe and Enjoy</a></h4>
+              <p class="description">You can also subscribe your favorite Tv channels through Mobile Application provided by Lucky Cable Network.</p>
             </div>
   
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Dine Pad</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <div class="icon"><i class='bx bx-support'></i></div>
+              <h4 class="title"><a href="javascript:none;">24x7 Customer Support</a></h4>
+              <p class="description">24x7 Support avalable for our subscribers. For any Query please contact on contact on +91 9414552014 or raise the complain thorugh Mobile Application.</p>
             </div>
   
           </div>
@@ -63,13 +66,13 @@
       <div class="container">
   
         <div class="section-title" data-aos="fade-up">
-          <h2>Features</h2>
+          <h2>Packages</h2>
           <p>Check Our Packages</p>
         </div>
   
         <div class="row" data-aos="fade-left">
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-4" *ngFor="let packs of data">
-            <div class="icon-box" data-aos="zoom-in" data-aos-delay="50">
+          <div class="col-lg-4 col-md-6 mt-4 mt-md-4" *ngFor="let packs of data" style="cursor: pointer;">
+            <div class="icon-box" data-aos="zoom-in" data-aos-delay="50" data-toggle="tooltip" data-placement="top" title="Click to view">
               <i [ngClass]='packs.icon' [ngStyle]="{'color': packs.iconColor}"></i>
               <h3><a (click)="openModal(packs)">{{packs.pack_name}}</a></h3>
             </div>
@@ -85,12 +88,11 @@
       <div class="container">
   
         <div class="row" data-aos="fade-up">
-  
           <div class="col-lg-4 col-md-6 mt-5 mt-md-5" *ngFor="let result of data">
             <div class="count-box">
               <i class="icofont-document-folder" [ngStyle]="{'background': result.iconColor}"></i>
-              <span data-toggle="counter-up">{{result.total}}</span>
-              <p>{{result.pack_name}}</p>
+              <span data-toggle="counter-up">{{result.total}} <span style="font-size: 14px; font-weight: 800;">Channels</span></span>
+              <p>[ {{result.pack_name}} ]</p>
             </div>
           </div>
   
@@ -99,168 +101,8 @@
       </div>
     </section><!-- End Counts Section -->
   
-    <!-- ======= Details Section ======= -->
-    <section id="details" class="details">
-      <div class="container">
-  
-        <div class="row content">
-          <div class="col-md-4" data-aos="fade-right">
-            <img src="assets/img/details-1.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-8 pt-4" data-aos="fade-up">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check"></i> Iure at voluptas aspernatur dignissimos doloribus repudiandae.</li>
-              <li><i class="icofont-check"></i> Est ipsa assumenda id facilis nesciunt placeat sed doloribus praesentium.</li>
-            </ul>
-            <p>
-              Voluptas nisi in quia excepturi nihil voluptas nam et ut. Expedita omnis eum consequatur non. Sed in asperiores aut repellendus. Error quisquam ab maiores. Quibusdam sit in officia
-            </p>
-          </div>
-        </div>
-  
-        <div class="row content">
-          <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/details-2.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-            <h3>Corporis temporibus maiores provident</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-            <p>
-              Inventore id enim dolor dicta qui et magni molestiae. Mollitia optio officia illum ut cupiditate eos autem. Soluta dolorum repellendus repellat amet autem rerum illum in. Quibusdam occaecati est nisi esse. Saepe aut dignissimos distinctio id enim.
-            </p>
-          </div>
-        </div>
-  
-        <div class="row content">
-          <div class="col-md-4" data-aos="fade-right">
-            <img src="assets/img/details-3.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-8 pt-5" data-aos="fade-up">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-            <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-            <p>
-              Qui consequatur temporibus. Enim et corporis sit sunt harum praesentium suscipit ut voluptatem. Et nihil magni debitis consequatur est.
-            </p>
-            <p>
-              Suscipit enim et. Ut optio esse quidem quam reiciendis esse odit excepturi. Vel dolores rerum soluta explicabo vel fugiat eum non.
-            </p>
-          </div>
-        </div>
-  
-        <div class="row content">
-          <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/details-4.png" class="img-fluid" alt="">
-          </div>
-          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
-            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
-            </p>
-            <ul>
-              <li><i class="icofont-check"></i> Et praesentium laboriosam architecto nam .</li>
-              <li><i class="icofont-check"></i> Eius et voluptate. Enim earum tempore aliquid. Nobis et sunt consequatur. Aut repellat in numquam velit quo dignissimos et.</li>
-              <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-            </ul>
-          </div>
-        </div>
-  
-      </div>
-    </section><!-- End Details Section -->
-  
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
-      <div class="container">
-  
-        <div class="owl-carousel testimonials-carousel" data-aos="zoom-in">
-  
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-  
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-  
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-  
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-  
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
-  
-        </div>
-  
-      </div>
-    </section><!-- End Testimonials Section -->
-  
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <section id="pricing" class="pricing section-bg">
       <div class="container">
   
         <div class="section-title" data-aos="fade-up">
@@ -274,13 +116,35 @@
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
               <span *ngIf="result?.advanced" class="advanced">Advanced</span>
               <h3>{{result.pack_name}}</h3>
-              <h4><sup>₹</sup>{{result.amount}}<span> / month</span></h4>
+              <h4><sup>₹</sup>{{result.amount}}<span> / month <br> + 18% GST</span></h4>
               <ul>
                 <li>Channels: {{result.total}}</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Buy Now</a>
+                <a href="#contact" class="btn-buy scrollto">Buy Now</a>
               </div>
+            </div>
+          </div>
+
+        </div>
+  
+      </div>
+    </section><!-- End Pricing Section -->
+	
+	<!-- ======= Broadband Package ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container">
+  
+        <div class="section-title" data-aos="fade-up">
+          <h2>Other Packs</h2>
+          <p>Check our Broadband Pricing</p>
+        </div>
+  
+        <div class="row" data-aos="fade-left">
+  
+          <div class="col-lg-12 col-md-6 mt-4 mt-md-4">
+            <div class="box" data-aos="zoom-in" data-aos-delay="100">
+              <img src="assets/broadband-package.jpg" class="img-fluid animated" width="100%" height="auto" alt="Broadband Packs">
             </div>
           </div>
 
